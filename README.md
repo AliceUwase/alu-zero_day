@@ -1,4 +1,2 @@
-my first readme
-summer '24 
-
+summer '24
 
